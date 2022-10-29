@@ -1,0 +1,63 @@
+div.main-container {
+    padding: 1 30px 30px 20px;
+    margin-top: 10px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    background: orange;
+    color: black;
+    text-align: center;
+}
+
+.column img {
+    display: inline-flex;
+    height: 300px;
+    width: 200px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+body {
+    background-color: black;
+    color: white;
+    background-image: url(images/web-white.png);
+    background-repeat: repeat-y repeat-x;
+}
+
+span {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#cont-cta {
+    border: 1px solid;
+}
+
+P {
+
+}
+
+h1 {
+    font-family: chiller;
+    font-size: 96px;
+    padding-top: 0;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+
