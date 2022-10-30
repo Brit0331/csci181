@@ -38,11 +38,18 @@ span {
 }
 
 #cont-cta {
-    border: 1px solid;
+    border: 6px solid;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    text-align: center;
 }
 
 P {
-
+    font-family: lato;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 h1 {
@@ -55,9 +62,15 @@ h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-ul {
+h3 {
+    text-align: left !important;
+    padding-left: 100px;
+}
+
+li {
     list-style: none;
-    text-align: center;
+    text-align: left;
+    padding-left: 100px;
 }
 
 
